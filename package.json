@@ -1,0 +1,21 @@
+{
+    "name": "fathom-dark",
+    "displayName": "Fathom Dark",
+    "description": "Minimal, almost monochromatic, dark color scheme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fathom Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fathom Dark-color-theme.json"
+            }
+        ]
+    }
+}
