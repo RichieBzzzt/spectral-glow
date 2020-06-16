@@ -2,6 +2,7 @@
     "name": "spectral-glow",
     "displayName": "Spectral Glow",
     "description": "Minimal, almost monochromatic, dark color theme with one bold accent color.",
+    "publisher": "mediumdivision",
     "icon": "images/icon.png",
     "version": "1.0.0",
     "engines": {
