@@ -1,8 +1,8 @@
 {
-    "name": "fathom-dark",
-    "displayName": "Fathom Dark",
-    "description": "Minimal, almost monochromatic, dark color scheme.",
-    "version": "0.0.1",
+    "name": "spectral-glow",
+    "displayName": "Spectral Glow",
+    "description": "Minimal, almost monochromatic, dark color theme with one bold accent color.",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.45.0"
     },
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Fathom Dark",
+                "label": "Spectral Glow",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Fathom Dark-color-theme.json"
+                "path": "./themes/Spectral Glow-color-theme.json"
             }
         ]
     }

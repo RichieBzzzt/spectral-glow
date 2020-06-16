@@ -457,6 +457,8 @@
     {
       "scope": [
         "punctuation.definition",
+        "punctuation.curlybrace.close",
+        "punctuation.curlybrace.open",
       ],
       "settings": {
         "foreground": "#e2fd3b"
