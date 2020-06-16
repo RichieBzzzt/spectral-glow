@@ -2,6 +2,7 @@
     "name": "spectral-glow",
     "displayName": "Spectral Glow",
     "description": "Minimal, almost monochromatic, dark color theme with one bold accent color.",
+    "icon": "images/icon.png",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.45.0"
@@ -17,5 +18,9 @@
                 "path": "./themes/Spectral Glow-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jeffpamer/spectral-glow.git"
     }
 }
